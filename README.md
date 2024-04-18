@@ -4,9 +4,14 @@
 
 "a recent graduate with a degree in Computer Science and Engineering, eager to dive into the world of technology and innovation"
 
-## Available 猬囷笍
+## Available
 You can find me on:
 
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d24e62&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/arshuu__u)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/arshad-shemil-k-964424243)
+
+## Dev Tools
+
+### Development OS
+![Windows11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=000000&logo=windows11&logoColor=FFFFFF&label=)
 
