@@ -2,6 +2,8 @@
 
 "I am Arshad shemil k"
 
+"Currently pursuing M.Tech degree in Artificial Intelligence"
+
 "a recent graduate with a degree in Computer Science and Engineering, eager to dive into the world of technology and innovation"
 
 ## Available
