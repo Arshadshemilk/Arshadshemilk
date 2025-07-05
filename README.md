@@ -1,39 +1,43 @@
-# Hi there! <img src="mochi-mochi-hello-grey-cat-mochi-mochi.gif" width="30px">
+# Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtZHFzdmxiOWU0anJ0ajFvZ3c5bWRvbmxvZnRzOGpoNnY2dDVreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="30" />
 
-"I am Arshad shemil k"
+### I'm **Arshad Shemil K** — AI Explorer 🚀 | Tech Tinkerer 🧠 | Coffee-Fueled Coder ☕  
+🔍 Currently pursuing **M.Tech in Artificial Intelligence**  
+🎓 B.Tech in **Computer Science and Engineering** — ready to build, break, and rebuild tech with curiosity and creativity.
 
-"Currently pursuing M.Tech degree in Artificial Intelligence"
+---
 
-"a recent graduate with a degree in Computer Science and Engineering, eager to dive into the world of technology and innovation"
+## 📡 Connect With Me
 
-## Available
-You can find me on:
+[![Instagram](https://img.shields.io/badge/-@arshuu__u-d24e62?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshuu__u)  
+[![LinkedIn](https://img.shields.io/badge/-Arshad%20Shemil%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-shemil-k-964424243)
 
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d24e62&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/arshuu__u)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/arshad-shemil-k-964424243)
+---
 
-## Dev Tools
+## 🧰 Tech Stack
 
-### Development OS
-![Windows11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=000000&logo=windows11&logoColor=FFFFFF&label=)
+### 💻 Languages I Think In  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-3178C6?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=3178C6&logo=openjdk&logoColor=FFFFFF&label=)
-![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
+---
 
-### OS Used
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![android](https://img.shields.io/static/v1?style=for-the-badge&message=android&color=3DDC84&logo=android&logoColor=FFFFFF&label=)
-![Windows11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=000000&logo=windows11&logoColor=FFFFFF&label=)
+### 🧑‍💻 Dev Tools & Platforms  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  
+![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Others
-![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
-![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
-![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+---
+
+### 🖥️ Operating Systems  
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows11&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
