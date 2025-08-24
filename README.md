@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtZHFzdmxiOWU0anJ0ajFvZ3c5bWRvbmxvZnRzOGpoNnY2dDVreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="60" />
+# Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtZHFzdmxiOWU0anJ0ajFvZ3c5bWRvbmxvZnRzOGpoNnY2dDVreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="120" />
 
 ### I'm **Arshad Shemil K** — AI Explorer 🚀 | Tech Tinkerer 🧠 | Coffee-Fueled Coder ☕  
 🔍 Currently pursuing **M.Tech in Artificial Intelligence**  
