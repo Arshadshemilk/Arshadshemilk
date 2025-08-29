@@ -195,10 +195,10 @@ Systems Architecture:
 **B.Tech in Computer Science & Engineering** (2019-2023)  
 *Specialization: Machine Learning & Mobile Application Development*
 
-### 🏆 **Research Milestones**
+<!---### 🏆 **Research Milestones**
 - 📄 **Research Paper** - "Edge AI Optimization Frameworks" *(Under Review)*
 - 🎯 **Thesis Defense** - Scheduled for Q2 2025
-- 👨‍🏫 **Technical Mentorship** - 25+ Students in AI/Flutter Development
+- 👨‍🏫 **Technical Mentorship** - 25+ Students in AI/Flutter Development--->
 
 </div>
 
