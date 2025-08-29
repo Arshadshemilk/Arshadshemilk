@@ -92,9 +92,9 @@ me = AIEngineer()
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88)](https://git.io/streak-stats)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=5)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&border_color=00FF88&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
