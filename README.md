@@ -88,15 +88,40 @@ me = AIEngineer()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88)](https://git.io/streak-stats)
+  **🔥 Current Streak:** `Loading...` days  
+  **💻 Total Commits:** `Loading...`  
+  **⭐ Total Stars:** `Loading...`  
+  **🍴 Total Forks:** `Loading...`  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&border_color=00FF88&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  ---
+  
+  **🚀 Most Used Languages:**
+  
+  `Dart` ████████████████████▓▓▓▓▓ 80%  
+  `Python` ██████████████████▓▓▓▓▓▓▓ 70%  
+  `Java` ████████████████▓▓▓▓▓▓▓▓▓ 65%  
+  `Kotlin` ██████████████▓▓▓▓▓▓▓▓▓▓▓ 55%  
+  `C` ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓ 50%  
   
 </div>
+
+---
+
+### 📈 **GitHub Stats Alternative**
+
+Since you're building your GitHub presence, here are some ways to showcase your activity:
+
+```bash
+# Your GitHub Journey
+📅 Member since: [Your join date]
+🏆 Achievements: [Badges you've earned]
+📚 Learning in public: AI, Flutter, Edge Computing
+🎯 2024 Goal: 365 day coding streak
+```
 
 ---
 
