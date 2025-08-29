@@ -26,6 +26,7 @@ class AIEngineer:
             "completed": "B.Tech in Computer Science & Engineering"
         }
         self.location = "Thiruvananthapuram, Kerala, India"
+        self.languages = ["Dart", "Python", "Java", "Kotlin", "C"]
         self.specialization = ["Edge AI", "Mobile ML", "Flutter Development"]
         self.passion = "Deploying AI models on edge devices"
     
@@ -67,9 +68,11 @@ me = AIEngineer()
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 💻 **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🛠️ **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -88,11 +91,9 @@ me = AIEngineer()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8&include=dart,python,java,kotlin,c,javascript,html,css" alt="Top Languages" />
 </div>
 
 ---
@@ -118,14 +119,18 @@ me = AIEngineer()
 ## 📈 Skills Proficiency
 
 ```text
-AI/ML Engineering     ████████████████████ 100%
+Dart Programming      ████████████████████ 100%
+Python Programming    ████████████████████ 100%
+AI/ML Engineering     ███████████████████▌  95%
 Edge AI Deployment    ███████████████████▌  95%
 Flutter Development   ██████████████████▌   90%
-Python Programming    ████████████████████ 100%
+Java Development      ██████████████████▌   90%
+Kotlin Development    █████████████████▌    85%
 Deep Learning         ██████████████████▌   90%
 Computer Vision       █████████████████▌    85%
 Mobile App Dev        ████████████████▌     80%
 Cloud Deployment      ███████████████▌      75%
+C Programming         ████████████▌         60%
 ```
 
 ---
