@@ -250,7 +250,7 @@ Systems Architecture:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&fontSize=0&animation=twinkling" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FF88)](https://github.com/yourusername)
+  [![Profile Views](https://komarev.com/ghpvc/?username=arshadshemilk&style=for-the-badge&color=00FF88)](https://github.com/arshadshemilk)
   
   ### 💡 *Engineering Intelligence for the Edge Era*
 </div>
