@@ -1,12 +1,12 @@
 # Arshad Shemil K
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Arshad%20Shemil%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Edge%20Computing%20Specialist%20%7C%20Mobile%20Intelligence%20Architect&descAlignY=55&descAlign=50&descSize=18&stroke=ffffff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Edge%20AI%20Specialist%20%7C%20Mobile%20Intelligence%20Researcher&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=700&lines=M.Tech+AI+Research+Scholar;Edge+AI+%26+Neural+Optimization;Production-Scale+ML+Deployment;Cross-Platform+Intelligence+Solutions;Federated+Learning+%26+Model+Quantization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=M.Tech+In+AI;Edge+Computing+%26+Neural+Optimization;Production-Scale+AI+Deployment;Cross-Platform+Intelligence+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -248,9 +248,9 @@ Systems Architecture:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:764ba2,50:667eea,100:f093fb&height=220&section=footer&text=Building%20Tomorrow's%20AI%20Today&fontSize=35&fontColor=ffffff&animation=blinking&fontAlignY=70&desc=Edge%20Intelligence%20•%20Neural%20Optimization%20•%20Mobile%20AI%20Revolution&descAlignY=88&descAlign=50&descSize=16&rotate=2&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&fontSize=0&animation=twinkling" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=667eea)](https://github.com/yourusername)
+  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FF88)](https://github.com/yourusername)
   
   ### 💡 *Engineering Intelligence for the Edge Era*
 </div>
