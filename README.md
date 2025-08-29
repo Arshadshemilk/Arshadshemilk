@@ -91,9 +91,11 @@ me = AIEngineer()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8&include=dart,python,java,kotlin,c,javascript,html,css" alt="Top Languages" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=5)
+  
 </div>
 
 ---
