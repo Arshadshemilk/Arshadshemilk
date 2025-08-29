@@ -227,16 +227,16 @@ Systems Architecture:
 <div align="center">
 
 ### 🔍 **Research Collaboration Opportunities**
- 🧠 **Neural Architecture Optimization** for resource-constrained environments
- 📱 **Mobile AI Integration** patterns and best practices  
- ⚡ **Edge Computing Research** in federated learning systems
- 🚀 **MLOps Pipeline Development** for production ML workflows
+- 🧠 **Neural Architecture Optimization** for resource-constrained environments
+- 📱 **Mobile AI Integration** patterns and best practices  
+- ⚡ **Edge Computing Research** in federated learning systems
+- 🚀 **MLOps Pipeline Development** for production ML workflows
 
 ### 💼 **Industry Partnership Areas**
-AI-powered mobile application development
-Edge AI deployment consultation
-ML model optimization for production environments
-Cross-platform intelligence solution architecture
+- AI-powered mobile application development
+- Edge AI deployment consultation
+- ML model optimization for production environments
+- Cross-platform intelligence solution architecture
 
 <br>
 
